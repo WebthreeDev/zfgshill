@@ -39,7 +39,7 @@ Join the $ZFG movement and fight back against the jeet culture in the space. Com
 You ser are a true #ZEROFVCKSGIVEN chad! Come join the $ZFG movement and fight back against the jeet culture in the space, bear market, recession and our financial system. linktr.ee/thezfg #ZFGeneration LFG! #1000xgem #ETH
 </pre></div>
 <input type="button" class="copy-text btn" data-clipboard-target="#shill4" value="Copy">
-<a class="btn" href="https://twitter.com/intent/tweet?text=You ser are a true #ZEROFVCKSGIVEN chad! Come join the $ZFG movement and fight back against the jeet culture in the space, bear market, recession and our financial system. linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration,1000xgem,ETH,ZEROFVCKSGIVEN">Tweet This</a>
+<a class="btn" href="https://twitter.com/intent/tweet?text=You ser are a true %23ZEROFVCKSGIVEN chad! Come join the $ZFG movement and fight back against the jeet culture in the space, bear market, recession and our financial system. linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration,1000xgem,ETH,ZEROFVCKSGIVEN">Tweet This</a>
 
 <div id="shill5" ><pre style="white-space: pre-wrap;">
 Yessir! The right time for the right movement. There not a project today as bullish as the #ZeroFvcksGiven $ZFG #ZFG. Where is your money going to work harder than right here! IMO there is no other.  linktr.ee/thezfg
