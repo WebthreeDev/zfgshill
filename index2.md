@@ -27,7 +27,7 @@ $ZFG is a counter culture movement with community at its core, weekly rewards an
 $ZFG 2.0 is imminent with an expanded website, a new secret utility project, WhitePaper to be released shortly after launch and weekly rewards and lotteries featuring the newest hottest projects. Join the #ZFGeneration now @ linktr.ee/thezfg. #1000xgem #ETH #ZEROFVCKSGIVEN
 </pre></div>
 <input type="button" class="copy-text btn" data-clipboard-target="#shill2" value="Copy">
-<a class="btn" href="https://twitter.com/intent/tweet?text=$ZFG 2.0 is imminent with an expanded website, a new secret utility project, WhitePaper to be released shortly after launch and weekly rewards and lotteries featuring the newest hottest projects. Join the #ZFGeneration now @ linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration,1000xgem,ETH,ZEROFVCKSGIVEN">Tweet this</a>
+<a class="btn" href="https://twitter.com/intent/tweet?text=$ZFG 2.0 is imminent with an expanded website, a new secret utility project, WhitePaper to be released shortly after launch and weekly rewards and lotteries featuring the newest hottest projects. Join the %23ZFGeneration now @ linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration,1000xgem,ETH,ZEROFVCKSGIVEN">Tweet this</a>
 
 <div id="shill3" ><pre style="white-space: pre-wrap;">
 Join the $ZFG movement and fight back against the jeet culture in the space. Community is utility along with weekly rewards and lotteries, featuring the hottest brand videos on the market. linktr.ee/thezfg #ZFGeneration #1000xgem #ETH #ZEROFVCKSGIVEN
