@@ -51,6 +51,6 @@ Yessir! The right time for the right movement. There not a project today as bull
 If you're collecting Gems, put this on your list. $ZFG V2 is going to the moon! This project will take off with or without you. #ZFG V2, will once again impact the space with very special features. DYOR, & come join the team! Don't miss it! linktr.ee/thezfg #ZFGeneration
 </pre></div>
 <input type="button" class="copy-text btn" data-clipboard-target="#shill6" value="Copy">
-<a class="btn" href="https://twitter.com/intent/tweet?text=If you're collecting Gems, put this on your list. $ZFG V2 is going to the moon! This project will take off with or without you. %23ZFG V2, will once again impact the space with very special features. DYOR, & come join the team! Don't miss it! linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration">Tweet This</a>
+<a class="btn" href="https://twitter.com/intent/tweet?text=If you're collecting Gems, put this on your list. $ZFG V2 is going to the moon! This project will take off with or without you. %23ZFG V2, will once again impact the space with very special features. DYOR, %26 come join the team! Don't miss it! linktr.ee/thezfg%0d%0d&hashtags=ZFGeneration">Tweet This</a>
 
 ⚠️ After you make a tweet, share your link in the main TG chat for others to like and comment!
