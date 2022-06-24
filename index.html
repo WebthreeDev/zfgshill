@@ -141,6 +141,8 @@ if (hashTID) {
   hashTID = hashTID.substring(1);
   console.log("Tweet ID for responding is: " + hashTID);
 
+  document.getElementById("tweetorresp").innerHTML = '⚠️ You chose a specific Tweet with ID ' + hashTID + '. Clicking Tweet This will respond to this Tweet!';
+
 } 
 else {
   hashTID = '';
@@ -175,6 +177,10 @@ document.getElementById("maindiv").innerHTML += part_html;
 <h3 id="shillraid-template-text">SHILL/RAID Template Text</h3>
 
 <p>You can <code class="language-plaintext highlighter-rouge">copy</code> the text below for pasting in responses/comments OR click <code class="language-plaintext highlighter-rouge">Tweet this</code> to create a new tweet easily.</p>
+
+<p id="tweetorresp"></p>
+
+
 <div id="maindiv">
 
 
