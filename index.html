@@ -135,6 +135,16 @@ var shill_messages = [
   ]
 
 
+var hashTID = window.location.hash;
+if (hashTID) {
+  // Fragment exists
+  hashTID = hashTID.substring(1);
+  console.log("Tweet ID for responding is: " + hashTID);
+
+} 
+else {
+  hashTID = '';
+}
 
 shill_messages.forEach(function(shill_msg, i){
 
@@ -143,7 +153,7 @@ shill_messages.forEach(function(shill_msg, i){
 
 part_html = '<div id="shill' + i + '"><pre style="white-space: pre-wrap;">' + shill_msg + ' ' + textGetRandomHashtags(hashtags, 3) + '</pre></div>';
 part_html += '<p><input type="button" class="copy-text btn" data-clipboard-target="#shill' + i + '" value="Copy" />';
-part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '">Tweet this</a></p>';
+part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Tweet this</a></p>';
 
 
 document.getElementById("maindiv").innerHTML += part_html;
