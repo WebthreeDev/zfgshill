@@ -148,7 +148,7 @@ if (hashTID) {
   hashTID = hashTID.substring(1);
   console.log("Tweet ID for responding is: " + hashTID);
 
-  document.getElementById("tweetorresp").innerHTML = `⚠️ You are responding to Tweet: 	<iframe border=0 frameborder=0 height=250 width=550
+  document.getElementById("tweetorresp").innerHTML = `⚠️ You are responding to Tweet:<br>	<iframe border=0 frameborder=0 height=250 width=550
  src="https://twitframe.com/show?url=https://twitter.com/twitter/status/`+hashTID+`"></iframe>`;
 
 } 
@@ -163,8 +163,12 @@ shill_messages.forEach(function(shill_msg, i){
 
 part_html = '<div id="shill' + i + '"><pre style="white-space: pre-wrap;">' + shill_msg + ' ' + textGetRandomHashtags(hashtags, 3) + '</pre></div>';
 part_html += '<p><input type="button" class="copy-text btn" data-clipboard-target="#shill' + i + '" value="Copy" />';
-part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Tweet this</a></p>';
-
+if (hashTID) {
+    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Reply this</a></p>';
+}
+else{
+    part_html += '<a class="btn" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(shill_msg) + '&hashtags=' + twGetRandomHashtags(hashtags, 3) + '&in_reply_to=' + hashTID + '">Tweet this</a></p>';
+}
 
 document.getElementById("maindiv").innerHTML += part_html;
 
