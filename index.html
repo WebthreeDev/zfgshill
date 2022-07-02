@@ -142,10 +142,12 @@ var shill_messages = [
   ]
 
 
-var hashTID = window.location.hash;
-if (hashTID) {
+
+var hash = window.location.hash;
+if (hash) {
+  var hasharray = window.location.hash.substring(1).split("/")
   // Fragment exists
-  hashTID = hashTID.substring(1);
+  hashTID = hasharray[hasharray.length - 1]
   console.log("Tweet ID for responding is: " + hashTID);
 
   document.getElementById("tweetorresp").innerHTML = `⚠️ You are responding to Tweet:<br>	<iframe border=0 frameborder=0 height=250 width=550
